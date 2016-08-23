@@ -7,3 +7,4 @@ class NesCartridge
     @year = year
   end
 end
+#comment may cause problems for merge
